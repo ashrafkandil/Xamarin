@@ -1,0 +1,17 @@
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\bin\Debug\XamarinTrainingApp.dll
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\bin\Debug\XamarinTrainingApp.pdb
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\obj\Debug\XamarinTrainingApp.csprojResolveAssemblyReference.cache
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\obj\Debug\XamarinTrainingApp.dll
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\obj\Debug\XamarinTrainingApp.pdb
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\obj\Debug\XamarinTrainingApp.dll.mdb
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\bin\Debug\XamarinTrainingApp.dll.mdb
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\obj\Debug\XamarinTrainingApp.dll.mdb
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\bin\Debug\XamarinTrainingApp.dll.mdb

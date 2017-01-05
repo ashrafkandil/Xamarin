@@ -1,0 +1,2 @@
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp.UWP\XamarinTrainingApp.UWP.csproj;x86
+C:\GitRepositories\Xamarin\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp\XamarinTrainingApp.csproj;neutral
